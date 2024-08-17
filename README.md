@@ -1,10 +1,7 @@
-# <img src="./images/sticker.png" width=10% align=right /> Hola! Mi nombre es Inma
+Hola! Mi nombre es Cristobal
 
 **Estudiante en Formación** 💻 
 
-<a href="https://igijon.netlify.app/" target="_blank"><img src="./images/banner.jpeg" 
-   borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
-</p>
 
 Actualmente me dedico al desarrollo de software y a la enseñanza de herramientas como Excel a través de mi canal de YouTube, Las Gafas del Profe. En mis proyectos, exploro diversas áreas de la tecnología y desarrollo aplicaciones móviles.
 

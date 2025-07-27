@@ -1,18 +1,23 @@
-# ¡Hola! Mi nombre es Cristobal
+# <img src="./images/sticker.png" width=10% align=right /> ¡Hola! Mi nombre es Cristóbal
 
-**Estudiante en Formación** 💻 
+**Estudiante en Formación en Análisis y Desarrollo de Software** 💻
 
-Actualmente me dedico al desarrollo de software y a la enseñanza de herramientas como Excel a través de mi canal de YouTube, Las Gafas del Profe. En mis proyectos, exploro diversas áreas de la tecnología y desarrollo aplicaciones móviles.
+<a href="https://cristobalbelcor.wixsite.com/site1" target="_blank">
+  <img src="./images/banner.jpeg" style="border-radius:1rem; box-shadow:0 5px 18px rgba(0,0,0,0.3);">
+</a>
 
-También estoy aprendiendo sobre automatización de tareas con **Make**, trabajando con **bases de datos SQL**, desarrollo con **Java** (usando **IntelliJ IDEA**) y comenzando a dominar **Python**. Me interesa el consumo de **APIs REST** y el desarrollo backend.
+Apasionado por el desarrollo backend, la automatización de procesos y la integración de tecnologías modernas. Exploro el desarrollo de software desde la práctica, aplicando conceptos en proyectos reales como automatización con Make, consumo de APIs REST, bases de datos relacionales y aplicaciones Java.
 
-El contenido de los repositorios que puedes encontrar aquí ha sido desarrollado con objetivos de aprendizaje y proyectos personales. Si tienes alguna duda o necesitas más información, no dudes en contactarme.
+Mis repositorios reflejan proyectos de aprendizaje y desarrollo personal que aplican buenas prácticas y herramientas profesionales.
+
+---
 
 ## Contacto
 
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristobalbelcor@gmail.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Lasgafasdelprofe/featured)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://cristobalbelcor.wixsite.com/site1)
+
+---
 
 ## ⚡ Tecnologías más usadas
 
@@ -27,7 +32,11 @@ El contenido de los repositorios que puedes encontrar aquí ha sido desarrollado
 ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Make](https://img.shields.io/badge/Makefile-3776AB?style=for-the-badge&logo=gnubash&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
 
 ---
 
-> *“La programación no solo resuelve problemas, también te enseña a pensar de forma estructurada y creativa.”*
+## 📈 Trabajando en...
+
+![](./profile-3d-contrib/profile-season-animate.svg)

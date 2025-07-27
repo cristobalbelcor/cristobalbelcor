@@ -1,4 +1,4 @@
-# <img src="./images/sticker.png" width=10% align=right /> ¡Hola! Mi nombre es Cristóbal
+# ¡Hola! Mi nombre es Cristóbal
 
 **Estudiante en Formación en Análisis y Desarrollo de Software** 💻
 
@@ -47,10 +47,3 @@ Mis repositorios reflejan proyectos de aprendizaje y desarrollo personal que apl
 
 ---
 
-## 🐍 Snake Game
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cristobalbelcor/cristobalbelcor/output/snake.svg" alt="Snake animation" />
-</div>
-
----

@@ -37,6 +37,20 @@ Mis repositorios reflejan proyectos de aprendizaje y desarrollo personal que apl
 
 ---
 
-## 📈 Trabajando en...
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+## 📊 Estadísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cristobalbelcor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristobalbelcor&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="top langs" />
+</div>
+
+---
+
+## 🐍 Snake Game
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cristobalbelcor/cristobalbelcor/output/snake.svg" alt="Snake animation" />
+</div>
+
+---

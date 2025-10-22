@@ -3,9 +3,9 @@
 **Estudiante en Formación en Análisis y Desarrollo de Software** 💻
 
 <a href="https://cristobalbelcor.wixsite.com/site1" target="_blank">
-<img src="https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=150&q=80" 
-alt="Cristóbal avatar" 
-style="border-radius:50%; width:113px; height:113px; object-fit:cover; box-shadow:0 3px 10px rgba(0,0,0,0.3);">
+<img src="https://placehold.co/113x113/0d1117/ffffff?text=CB" 
+alt="Avatar Cristóbal" 
+style="border-radius:50%; box-shadow:0 3px 10px rgba(0,0,0,0.3);">
 </a>
 
 Apasionado por el desarrollo backend, la automatización de procesos y la integración de tecnologías modernas. Exploro el desarrollo de software desde la práctica, aplicando conceptos en proyectos reales como automatización con Make, consumo de APIs REST, bases de datos relacionales y aplicaciones Java.

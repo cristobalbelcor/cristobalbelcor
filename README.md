@@ -3,7 +3,7 @@
 **Estudiante en Formación en Análisis y Desarrollo de Software** 💻
 
 <a href="https://cristobalbelcor.wixsite.com/site1" target="_blank">
-  <img src="./images/banner.jpeg" style="border-radius:1rem; box-shadow:0 5px 18px rgba(0,0,0,0.3);">
+<img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1400&q=80" alt="Banner Cristóbal" style="border-radius:1rem; box-shadow:0 5px 18px rgba(0,0,0,0.3); width:100%; max-height:300px; object-fit:cover;">
 </a>
 
 Apasionado por el desarrollo backend, la automatización de procesos y la integración de tecnologías modernas. Exploro el desarrollo de software desde la práctica, aplicando conceptos en proyectos reales como automatización con Make, consumo de APIs REST, bases de datos relacionales y aplicaciones Java.
@@ -38,7 +38,7 @@ Mis repositorios reflejan proyectos de aprendizaje y desarrollo personal que apl
 ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-F53C2B?style=for-the-badge&logo=n8n&logoColor=white)
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-1E88E5?style=for-the-badge&logo=high-level&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-A500FF?style=for-the-badge&logo=make&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -53,3 +53,5 @@ Mis repositorios reflejan proyectos de aprendizaje y desarrollo personal que apl
   <img src="https://github-readme-stats.vercel.app/api?username=cristobalbelcor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristobalbelcor&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="top langs" />
 </div>
+
+---

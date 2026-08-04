@@ -1,63 +1,68 @@
-# 🚀 Cristóbal Christopher
-**Senior Backend Engineer & Systems Architect**
+# Hola, soy Cristóbal Beltrán 👋
 
-Especializado en el diseño de ecosistemas digitales que eliminan la fricción operativa. Mi enfoque combina el desarrollo de backend robusto con la orquestación de procesos automáticos, garantizando escalabilidad y eficiencia técnica.
+**Desarrollador Backend y de Automatizaciones — Java · Spring Boot · n8n · Make · Zapier**
+
+Construyo aplicaciones y automatizaciones que están en producción hoy, atendiendo usuarios y clientes reales. Trabajo freelance en Upwork (calificación 5.0) creando integraciones digitales para clientes de varios países, y opero mi propia infraestructura: un VPS con más de 45 workflows de n8n dando servicio a mis productos.
+
+🎓 Tecnólogo en Análisis y Desarrollo de Software (SENA) · Estudiante de Ingeniería de Sistemas (Universidad del Tolima)
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🚀 Proyectos en producción
 
-### 🧠 Backend & Mobile Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+| Proyecto | Qué es | Stack |
+|----------|--------|-------|
+| **[Classify](https://classify.in.net)** | Plataforma de agendamiento de clases: registro de usuarios y docentes, agenda, soporte automatizado | Java, Spring Boot, Spring Security, n8n |
+| **[Las Gafas del Profe](https://lasgafasdelprofe.com)** | Plataforma del movimiento educativo del magisterio colombiano: historias docentes, encuentros, herramientas con IA | HTML/CSS/JS, SEO técnico, n8n |
+| **[Maribel Peña Durán](https://maribelpenaduran.com)** | Sitio profesional de psicología clínica: agendamiento de citas, pagos en línea (EfiPay) y notificaciones automáticas | HTML/CSS/JS, n8n, EfiPay |
+
+Detrás de estos proyectos hay una infraestructura propia: VPS Linux con **n8n self-hosted** (onboarding de usuarios, pasarela de pagos, bots de Telegram, integraciones con Gemini/OpenAI, transcripción de audio, notificaciones GitHub/Jira → Google Chat) y despliegue con **Cloudflare Tunnel**.
+
+## 💼 Experiencia freelance (Upwork)
+
+Automatización de negocios e integraciones digitales para clientes internacionales: **n8n, Make, Zapier, GoHighLevel, Kommo, Airtable, APIs de Meta (WhatsApp/Instagram)** y flujos con IA (agentes conversacionales, generación de documentos e imágenes con ChatGPT).
+
+---
+
+## 🛠️ Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-### ☁️ Infraestructura & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS RDS](https://img.shields.io/badge/AWS_RDS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🤖 Automatización & Data Management
+### Automatización e IA
 ![n8n](https://img.shields.io/badge/n8n-F53C2B?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-A500FF?style=for-the-badge&logo=make&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-1E88E5?style=for-the-badge&logo=high-level&logoColor=white)
-![Kommo](https://img.shields.io/badge/Kommo-31E5B4?style=for-the-badge&logo=kommo&logoColor=black)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-1E88E5?style=for-the-badge&logoColor=white)
+![Kommo](https://img.shields.io/badge/Kommo-31E5B4?style=for-the-badge&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🛠️ Otras Herramientas
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
----
-
-## 🏗️ Proyectos & Enfoque Estratégico
-
-* **Ingeniería de Datos:** Pipelines escalables para procesamiento de datos inmobiliarios y análisis en **Google Colab**.
-* **Arquitectura de Automatización:** Integración de bases de datos dinámicas en **Airtable** y **Google Sheets** como motores de datos para flujos complejos en **n8n**.
-* **Backend & Cloud:** Desarrollo de servicios robustos con **Spring Boot** y **FastAPI**, orquestados en contenedores **Docker**.
-* **Sales Operations:** Optimización de CRMs y embudos de venta mediante lógica programática y webhooks.
+### Infraestructura y web
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## 📊 Impacto en Código
+## 📊 Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristobalbelcor&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Christopher Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristobalbelcor&layout=compact&theme=dark" alt="Lenguajes" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cristobalbelcor&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristobalbelcor&layout=compact&theme=dark" alt="Lenguajes más usados" />
 </p>
 
 ---
 
-## 📫 Contacto Profesional
+## 📫 Contacto
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cristobalbelcor@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![Portafolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://cristobalbelcor.wixsite.com/site1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristobal-beltran-cortes/)
+
+💬 Abierto a oportunidades como **desarrollador backend / automatizaciones** — disponible para vinculación laboral desde septiembre de 2026.

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="370" viewBox="0 0 880 370" role="img" aria-label="whoami: Cristóbal Beltrán, desarrollador backend y de automatizaciones">
+<style>text{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:14.5px}.l{opacity:0;animation:a .01s forwards}@keyframes a{to{opacity:1}}.c{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style>
+<rect x=".5" y=".5" width="879" height="369" rx="12" fill="#0d1117" stroke="#26303d"/>
+<path d="M.5 34V12.5a12 12 0 0 1 12-12h855a12 12 0 0 1 12 12V34z" fill="#161b22"/><line x1="0" y1="34" x2="880" y2="34" stroke="#26303d"/>
+<circle cx="22" cy="17" r="5.5" fill="#ff5f57"/><circle cx="40" cy="17" r="5.5" fill="#febc2e"/><circle cx="58" cy="17" r="5.5" fill="#28c840"/>
+<text x="440.0" y="22" text-anchor="middle" fill="#8b949e" style="font-size:12.5px">cristobal@rasp-negra: ~</text>
+<text class="l" style="animation-delay:0.40s" x="22" y="62"><tspan fill="#3fb950">➜</tspan> <tspan fill="#58a6ff">~</tspan> <tspan fill="#e6edf3">whoami</tspan></text>
+<text class="l" style="animation-delay:0.95s" x="22" y="90" fill="#8b949e">Cristóbal Beltrán · desarrollador backend y de automatizaciones · Colombia</text>
+<text class="l" style="animation-delay:1.50s" x="22" y="118"><tspan fill="#3fb950">➜</tspan> <tspan fill="#58a6ff">~</tspan> <tspan fill="#e6edf3">cat ahora.txt</tspan></text>
+<text class="l" style="animation-delay:2.05s" x="22" y="146" fill="#8b949e">Construyendo Cuadri (web + app móvil) y automatizaciones para clientes internacionales</text>
+<text class="l" style="animation-delay:2.60s" x="22" y="174"><tspan fill="#3fb950">➜</tspan> <tspan fill="#58a6ff">~</tspan> <tspan fill="#e6edf3">cat estudios.txt</tspan></text>
+<text class="l" style="animation-delay:3.15s" x="22" y="202" fill="#8b949e">Tecnólogo en Análisis y Desarrollo de Software (SENA) · Ing. de Sistemas (U. del Tolima)</text>
+<text class="l" style="animation-delay:3.70s" x="22" y="230"><tspan fill="#3fb950">➜</tspan> <tspan fill="#58a6ff">~</tspan> <tspan fill="#e6edf3">cat servidor.txt</tspan></text>
+<text class="l" style="animation-delay:4.25s" x="22" y="258" fill="#8b949e">45 servicios · 63 flujos de n8n · 2 Raspberry Pi + 1 droplet</text>
+<text class="l" style="animation-delay:4.80s" x="22" y="286"><tspan fill="#3fb950">➜</tspan> <tspan fill="#58a6ff">~</tspan> <tspan fill="#e6edf3">contacto</tspan></text>
+<text class="l" style="animation-delay:5.35s" x="22" y="314" fill="#8b949e">cristobalbelcor@gmail.com · abierto a trabajo remoto</text>
+<text class="l" style="animation-delay:5.90s" x="22" y="342"><tspan fill="#3fb950">➜</tspan> <tspan fill="#58a6ff">~</tspan> <tspan class="c" fill="#e6edf3">█</tspan></text></svg>
